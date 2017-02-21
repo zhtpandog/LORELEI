@@ -11,3 +11,8 @@ Here is a general description of the scripts:
 PlotThree.py: It plots the three plots: timestamp only, jaccard and tfidf. Each plot contains results of precision and recall evaluation for next doc prediction experiments based on entity field and word cloud field of the documents. 
 
 KDDDataPrep.py: It prepares all the data, and calculates basic statistics like word count, entity count, time span calculaton, etc.
+
+GenNext.py: APIs used to generate next document prediction in time series and perform related evaluations and plots. This is still ongoing and not a stable release. 
+
+tf_idf.py: An efficient TF-IDF library. Credit: https://github.com/hrs/python-tf-idf.
+
