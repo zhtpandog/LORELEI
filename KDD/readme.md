@@ -22,3 +22,5 @@ An efficient TF-IDF library. Credit: https://github.com/hrs/python-tf-idf.
 
 GroundTruth.py: 
 Simple code snippets to generate ground truth.
+
+I am not allowed to reveal data here, so the dataset is not posted.
